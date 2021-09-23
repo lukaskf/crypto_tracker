@@ -14,5 +14,5 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-![crypto tracker site preview](https://github.com/lukaskf/crypto_tracjer/blob/main/static/assets/img/crypto_tracker.png?raw=true)
+![crypto tracker site preview](https://github.com/lukaskf/crypto_tracker/blob/main/static/assets/img/crypto_tracker.png?raw=true)
 
